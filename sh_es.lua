@@ -88,7 +88,7 @@ if Lyth_Pulsar.Config.Language == "es" then
     -- Intergrations
     lang["bLogsGiven"] = "{1} le ha dado {2} {3} a {4}"
     lang["bLogsRemoved"] = "{1} ha removido {2} {3} de {4}"
-    lang["bLogsPurchase"] = "{1} ha adquirido un/a {2} por {3} credits"
+    lang["bLogsPurchase"] = "{1} ha adquirido un/a {2} por {3} créditos"
 
     lang["SAMGiveCreditsHelp"] = "Dar créditos a un jugador"
     lang["SAMGiveCreditsPlayerHint"] = "Jugador al que se darán los créditos"
